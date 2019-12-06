@@ -1,0 +1,7 @@
+STUDENT LOGIN:
+
+students each have a unique student number and password usernames: 11111,22222,33333. passwords: pass1, pass2, pass3
+
+LECTURE LOGIN:
+
+lecturers all use the same login username: admin password: Password1
